@@ -13,4 +13,15 @@ I'm a "Programmer", "Developer", "Software Engineer" or anything kids these day 
 - 📫 How to reach me: kiumars.javan@gmail.com | +989151733784
 - 😄 How to Pronouns my name: Kiumars /kɪu:mærs/
 - ⚡ Fun fact: I'm a fun geek
-- to be continued
+
+
+Projects
+========
+
+| Project Title	                                      | Company                        | Description                                                             
+|-----------------------------------------------------|--------------------------------|----------------------------------------------------------------------------------------------------|
+| Arian Aviculture Atomation                          | Sabzevar Simorgh Elec. Asrar   | I was the C# desktop application developer for this project in my university internship period
+
+
+
+## to be continued
