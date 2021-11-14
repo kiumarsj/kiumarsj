@@ -13,7 +13,6 @@ I'm a "Programmer", "Developer", "Software Engineer" or anything people these da
 - 💬 Ask me about anything u want
 - 📫 How to reach me: kiumars.javan@gmail.com | +989151733784
 - 😄 How to Pronouns my name: Kiumars /kɪu:mærs/
-- ⚡ Fun fact: I'm a fun geek
 
 
 Projects
