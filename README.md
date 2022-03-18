@@ -4,7 +4,7 @@
 **kiumarsj/kiumarsj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm an iranian software engineer and developer who is intrested in DevOps and Linux :)
+I'm an enthusiastic software engineer and developer who is intrested in DevOps and Linux :)
 
 - 🔭 I’m currently working on my study and finishing university courses.
 - 🌱 I’m busy with Flutter and working on my linux skills for LPIC-1 test.
