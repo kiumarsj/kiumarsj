@@ -6,9 +6,9 @@
 
 I'm an iranian software engineer and developer who is intrested in DevOps and Linux :)
 
-- 🔭 I’m currently working on my study and finishing university courses
-- 🌱 I’m busy with working on my linux abilities for LPIC-1 test and flutter
-- 📫 How to reach me: kiumars.javan@gmail.com | +989151733784
+- 🔭 I’m currently working on my study and finishing university courses.
+- 🌱 I’m busy with Flutter and working on my linux skills for LPIC-1 test.
+- 📫 How to reach me: kiumars.javan@gmail.com
 
 
 Projects
