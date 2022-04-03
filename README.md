@@ -13,7 +13,8 @@ I'm an enthusiastic software engineer and developer who is intrested in DevOps a
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kiumarsj&show_icons=true&theme=gotham">  
 </p>
-![github contribution grid snake animation](https://raw.githubusercontent.com/kiumarsj/kiumarsj/output/github-contribution-grid-snake.svg)
+
+![Snake](https://raw.githubusercontent.com/kiumarsj/kiumarsj/output/github-contribution-grid-snake.svg)
 
 Projects
 ========
