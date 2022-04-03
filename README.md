@@ -10,6 +10,7 @@ I'm an enthusiastic software engineer and developer who is intrested in DevOps a
 - 🌱 I’m busy with Flutter and working on my linux skills for LPIC-1 test.
 - 📫 How to reach me: kiumars.javan@gmail.com
 
+![Snake](/github-contribution-grid-snake.svg)
 
 Projects
 ========
