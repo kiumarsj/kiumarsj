@@ -10,6 +10,9 @@ I'm an enthusiastic software engineer and developer who is intrested in DevOps a
 - 🌱 I’m busy with Flutter and working on my linux skills for LPIC-1 test.
 - 📫 How to reach me: kiumars.javan@gmail.com
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kiumarsj&show_icons=true&theme=gotham">  
+</p>
 ![Snake](/github-contribution-grid-snake.svg)
 
 Projects
@@ -18,6 +21,3 @@ Projects
 | Project Title	                                      | Company                        | Description                                                             
 |-----------------------------------------------------|--------------------------------|---------------------------------------------------------------------------------------------------------------|
 | Arian Aviculture Automation                          | Sabzevar Simorgh Elec. Asrar   | I was the C# developer for this project in my university internship period. this application is a C#  desktop application that runs a tcp server and receive data from about 200 network nodes and save them in a SQL server database for post-processing.
-
-
-[![Kiumars's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiumarsj&show_icons=true&theme=gotham)]
