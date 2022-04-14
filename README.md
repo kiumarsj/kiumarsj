@@ -5,7 +5,7 @@ I'm an enthusiastic software engineer and developer who is intrested in DevOps a
 - 📫 How to reach me: kiumars.javan@gmail.com
 
 <div class="row">
-  <img height="180em" width="450em" src="https://github-rwidth="500em" eadme-stats.vercel.app/api?username=kiumarsj&show_icons=true&theme=gotham">
+  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=kiumarsj&show_icons=true&theme=gotham">
   <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiumarsj&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
