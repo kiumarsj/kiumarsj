@@ -4,10 +4,10 @@ I'm an enthusiastic software engineer and developer who is intrested in DevOps a
 - 🌱 I’m busy with Flutter and working on my linux skills for LPIC-1 test.
 - 📫 How to reach me: kiumars.javan@gmail.com
 
-<p class="row">
+<div class="row">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiumarsj&show_icons=true&theme=gotham">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiumarsj&layout=compact&langs_count=7&theme=cobalt"/>
-</p>
+</div>
 
 ![Snake](https://raw.githubusercontent.com/kiumarsj/kiumarsj/output/github-contribution-grid-snake.svg)
 
