@@ -10,10 +10,3 @@ I'm an enthusiastic software engineer and developer who is intrested in DevOps a
 </div>
 
 ![Snake](https://raw.githubusercontent.com/kiumarsj/kiumarsj/output/github-contribution-grid-snake.svg)
-
-Projects
-========
-
-| Project Title	                                      | Company                        | Description                                                             
-|-----------------------------------------------------|--------------------------------|---------------------------------------------------------------------|
-| Arian Aviculture Automation                         | Sabzevar Simorgh Elec. Asrar   | I was the C# developer for this project in my university internship period. this application is a C#  desktop application that runs a tcp server and receive data from about 200 network nodes and save them in a SQL server database for post-processing.
