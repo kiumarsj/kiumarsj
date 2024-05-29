@@ -19,6 +19,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=kiumarsj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
 <!-- ## 🌐 Socials: -->
-How to reach me: me@kiumarsj.ir
+How to reach me: contact@kiumarsj.ir
 ---
 [![](https://visitcount.itsvg.in/api?id=kiumarsj&icon=0&color=0)](https://visitcount.itsvg.in)
